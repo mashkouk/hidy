@@ -1,4 +1,5 @@
-wget https://raw.githubusercontent.com/mashkouk/hidy/refs/heads/main/base_xray_config.json.j2
+clean_url=$(echo "https://raw.githubusercontent.com/mashkouk/hidy/refs/heads/main/base_xray_config.json.j2" | tr -d '\r')
+wget $clean_url
 sudo cp base_xray_config.json.j2 /opt/hiddify-manager/.venv/lib/python3.10/site-packages/hiddifypanel/panel/user/templates/
 cd /root
 rm -rf base_xray_config.json.j2
