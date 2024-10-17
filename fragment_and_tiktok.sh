@@ -6,7 +6,7 @@ destination_dir="/opt/hiddify-manager/.venv/lib/python3.10/site-packages/hiddify
 # نام فایل مقصد
 destination_file="base_xray_config.json.j2"
 # ایجاد مسیر مقصد در صورت وجود نداشتن
-# mkdir -p "$destination_dir"
+mkdir -p "$destination_dir"
 # دانلود فایل از GitHub و قرار دادن آن در مسیر مقصد
 wget -O "$destination_dir/$destination_file" "$source_url"
 # بررسی نتیجه دانلود
