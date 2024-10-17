@@ -6,4 +6,4 @@ wget https://github.com/mashkouk/hidy/raw/refs/heads/main/user.py
 sudo cp user.py /opt/hiddify-manager/.venv/lib/python3.10/site-packages/hiddifypanel/models/
 cd /root
 rm -rf user.py
-bash /opt/hiddify-manager/apply_configs.sh
+# bash /opt/hiddify-manager/apply_configs.sh
