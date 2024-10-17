@@ -6,6 +6,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mashkouk/hidy/refs/heads/main/
 
 
 تغییرات:
+
 1- تغییر هسته به اخرین هسته مهسا
 
 2-تغییر فراگمنت و فیکس کردن تیک تاک
