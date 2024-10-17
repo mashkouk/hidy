@@ -2,7 +2,9 @@
 
 اجرا با دستور زیر
 
+```
 bash <(curl -Ls https://raw.githubusercontent.com/mashkouk/hidy/refs/heads/main/hiddify_configer.sh)
+```
 
 
 تغییرات:
