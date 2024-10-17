@@ -12,4 +12,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/mashkouk/hidy/refs/heads/main/
 
 3- تغییر dns به موارد 8.8.4.4  9.9.9.9  1.1.1.1
 
-4- تغییر مقادیر پیشفرض ساخت کاربر
+4- تغییر مقادیر پیشفرض ساخت کاربر 50گیگ و 30 روزه
