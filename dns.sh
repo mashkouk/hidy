@@ -12,4 +12,4 @@ nameserver 1.1.1.1
 EOF
 
 # ریبوت کردن سیستم
-sudo reboot
+# sudo reboot
